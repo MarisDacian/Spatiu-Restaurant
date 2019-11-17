@@ -7,3 +7,8 @@
     border: 1px solid #FF0000;
     position: absolute;
 }
+.cerc {
+    border: 1px solid red;
+    border-radius: 2000px;
+    position: absolute;
+}
